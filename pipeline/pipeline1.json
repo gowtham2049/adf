@@ -77,9 +77,6 @@
 			},
 			"P_filename": {
 				"type": "string"
-			},
-			"sp_filename": {
-				"type": "string"
 			}
 		},
 		"annotations": []
