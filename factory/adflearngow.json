@@ -1,0 +1,9 @@
+{
+	"name": "adflearngow",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7d66bda1-e33c-45f8-9a71-ccc4a02ec0fa",
+		"tenantId": "1392f0d0-ed86-4c86-82de-7cb27cf56103"
+	}
+}
