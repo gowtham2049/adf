@@ -51,11 +51,11 @@
 						"type": "DatasetReference",
 						"parameters": {
 							"file_name": {
-								"value": "@pipeline().parameters.p_container",
+								"value": "@pipeline().parameters.P_filename",
 								"type": "Expression"
 							},
 							"containername": {
-								"value": "@pipeline().parameters.P_filename",
+								"value": "@pipeline().parameters.p_container",
 								"type": "Expression"
 							}
 						}
